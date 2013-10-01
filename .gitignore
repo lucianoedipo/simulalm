@@ -1,0 +1,14 @@
+.project
+.pydevproject
+.settings
+*.pynative
+*.pyc
+*.so
+*.os
+*.log
+*.o
+*.a
+*~
+*/*~
+*temp
+*.dblite
